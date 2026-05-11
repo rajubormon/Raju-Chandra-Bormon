@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+  .hero-image img {
+    transform: scale(1) !important;
+    top: 46px;
+  }
+}
