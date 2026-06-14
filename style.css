@@ -229,9 +229,9 @@ section {
 }
 .nav-logo {
   font-family: var(--font-body);
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-weight: 800;
-  color: var(--text-primary);
+  color: var(--text-accent);
   flex-shrink: 0;
 }
 .logo-bracket {
