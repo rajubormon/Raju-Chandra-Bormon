@@ -231,7 +231,7 @@ section {
   font-family: var(--font-body);
   font-size: 1.6rem;
   font-weight: 800;
-  color: var(--text-accent);
+  color: var(--accent);
   flex-shrink: 0;
 }
 .logo-bracket {
